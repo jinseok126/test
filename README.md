@@ -1,6 +1,6 @@
 # test
 
-### gitgub 사용법
+### github 사용법
 
 자신의 repository를 만들었다는 가정하의 연동 순서
 
